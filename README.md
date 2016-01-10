@@ -1,10 +1,9 @@
-sinatra-skeleton-app
-====================
-My Ruby sandbox.
+Code for a landing page with video background and mailchimp integration
 
-```
-sudo gem install thin
+Sinatara barebones from zhuravel
+
+To clone
 git clone git@github.com:zhuravel/sinatra-skeleton-app.git
-cd sinatra-skeleton-app
+
+To run on local server
 thin start
-```
